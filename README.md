@@ -1,4 +1,4 @@
-# CD2U-LR
+# SHRI-Dif
 
 Please note that this is an interim release. Only the KAIST dataset results are available at this stage.  
 
